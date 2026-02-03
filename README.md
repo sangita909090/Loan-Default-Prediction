@@ -4,7 +4,7 @@ This project is a Machine Learning based web application that predicts whether a
 
 ## 🚀 Live Demo
 (Replace this link after deployment)
-https://loan-default-prediction.streamlit.app
+https://loan-default-prediction-2hjsq9e8zxhsxdybxckzwu.streamlit.app/
 
 ## 📌 Features
 - Predicts loan default risk
