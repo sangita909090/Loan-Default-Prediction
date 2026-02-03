@@ -1,6 +1,6 @@
 # Loan Default Prediction System
 
-This project is a Machine Learning based web application that predicts whether a loan applicant is likely to default.
+A machine learning–based Streamlit web application that predicts loan default risk using a Random Forest classifier.
 
 ## 🚀 Live Demo
 (Replace this link after deployment)
